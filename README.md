@@ -7,7 +7,7 @@ This feature lists the countries celebrating holidays today, what holiday they a
 
 ## API Selection
 * [Nager.Date](https://date.nager.at/Api) - Public Holidays API
-* [Rest Countries](https://developer.here.com/) - Country Info API
+* [Rest Countries](https://restcountries.com/#about-this-project) - Country Info API
 
 We chose Nager because it gives access to an out of the box ready to use API that lists information about public holidays in over 90 countries.
 
