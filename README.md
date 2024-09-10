@@ -1,4 +1,3 @@
-# README
 ## Data Feature Description
 Everyone loves holidays - they are great days to spend with family and forget about the troubles of life for a bit. But how many holidays do you actually know about? Almost every day, a country around the world is celebrating something!
 
